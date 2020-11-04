@@ -21,5 +21,5 @@
 
 ## My Git Status
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Amshenshanu07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Amshenshanu07&&show_icons=true&title_color=&icon_color=24ff00&text_color=00fff6&bg_color=151515">
 
