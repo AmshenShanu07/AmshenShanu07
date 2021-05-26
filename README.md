@@ -17,7 +17,7 @@
 - 🌱 I’m currently studying at +2 (12th)<br>
 - 🤔 Don't ask me any douts i am not a Good Programmer<br>
 - 💬 Ask me about basics of python and WebDesigning<br>
-- ⚡ Working with some community <a href="https://t.me/linux_repo">LinuxRepo</a> <a href="https://t.me/httpstmejoinchatKRMA6RuflY">Hackphiles</a><br><br>
+- ⚡ Working with some community <a href="https://t.me/httpstmejoinchatKRMA6RuflY">Hackphiles</a><br><br>
 
 ## My Git Status
 <br>
