@@ -9,7 +9,7 @@
 <br>
 
 # About Me:
-<h3>Hy world, My name is AmshenYesudas. I am from India(Kerala), I just started coding by learnning Python and i also learned WebDesigning. Now i am learning NodeJS(WebDevelopment). You can see my activity below, I also do freelance static website works</h3> 
+<h3>Hy world, My name is AmshenYesudas.I am a mern Stack Developer. Now i am learning Flutter. You can see my activity below, I also do freelance static website works</h3> 
 <br>
 
 ## My Status:
