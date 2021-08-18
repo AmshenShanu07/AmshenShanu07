@@ -13,10 +13,8 @@
 <br>
 
 ## My Status:
-- 🔭 I’m currently learning NodeJs<br>
-- 🌱 I’m currently studying at +2 (12th)<br>
-- 🤔 Don't ask me any douts i am not a Good Programmer<br>
-- 💬 Ask me about basics of python and WebDesigning<br>
+- 🔭 I’m currently learning Flutter<br>
+- 💬 Ask me about basics of python and WebDevlopment<br>
 - ⚡ Working with some community <a href="https://t.me/httpstmejoinchatKRMA6RuflY">Hackphiles</a><br><br>
 
 ## My Git Status
