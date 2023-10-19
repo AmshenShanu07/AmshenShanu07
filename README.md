@@ -9,7 +9,8 @@
 <br>
 
 # About Me:
-<h3>Hy world, My name is AmshenYesudas.I am a mern Stack Developer. Now i am learning Flutter. You can see my activity below, I also do freelance static website works</h3> 
+
+Hy world, My name is Amshen Yesudas.I am a mern Stack Developer. Now i am learning Flutter. You can see my activity below, I also do freelance static website works
 <br>
 
 ## My Status:
