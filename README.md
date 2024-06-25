@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/amshen_shanu"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="htyps://github.com/AmshenShanu07"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://amshen.shanu07.ya@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://gitlab.com/AmshenShanu07"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>x
+<a href="https://gitlab.com/AmshenShanu07"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
 
 <br>
 
@@ -14,8 +14,8 @@ Hy world, My name is Amshen Yesudas.I am a mern Stack Developer. Now i am learni
 <br>
 
 ## My Status:
-- 🔭 I’m currently learning Flutter<br>
-- 💬 Ask me about basics of python and WebDevlopment<br>
+- 🔭 I’m currently learning Three Js<br>
+- 💬 Ask me about basics ofWebDevlopment<br>
 - ⚡ Working with some community <a href="https://t.me/httpstmejoinchatKRMA6RuflY">Hackphiles</a><br><br>
 
 ## My Git Status
